@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# course generated files
+/data/
+/cache/
+
+# Pycharm / JetBrains IDE Specific
+.idea/
